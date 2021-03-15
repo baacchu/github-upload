@@ -1,0 +1,93 @@
+{
+  "gameData" : [
+    {
+      "name": "Hotline",
+      "imagepath": "../assets/images/game-1.jpg"
+    },
+    {
+      "name": "New Twigle",
+      "imagepath": "../assets/images/game-2.jpg"
+    },
+    {
+      "name": "Sea of Tranquility",
+      "imagepath": "./assets/images/game-3.jpg"
+    },
+    {
+      "name": "Aloha!",
+      "imagepath": "./assets/images/game-4.jpg"
+    },
+    {
+      "name": "3Hit Play Pluse",
+      "imagepath": "./assets/images/game-5.jpg"
+    },
+    {
+      "name": "Day of the Dead",
+      "imagepath": "./assets/images/game-6.jpg"
+    },
+    {
+      "name": "Dr.Jekyll & Mr.Hyde",
+      "imagepath": "./assets/images/game-7.jpg"
+    },
+    {
+      "name": "Day of the Dead",
+      "imagepath": "./assets/images/game-8.jpg"
+    },
+    {
+      "name": "Dr.Jekyll & Mr.Hyde",
+      "imagepath": "./assets/images/game-9.jpg"
+    },
+    {
+      "name": "Day of the Dead",
+      "imagepath": "./assets/images/game-10.jpg"
+    },
+    {
+      "name": "Dr.Jekyll & Mr.Hyde",
+      "imagepath": "./assets/images/game-11.jpg"
+    },
+    {
+      "name": "Fruit Spin",
+      "imagepath": "./assets/images/game-12.jpg"
+    },
+    {
+      "name": "Jack Hammer",
+      "imagepath": "./assets/images/game-13.jpg"
+    },
+    {
+      "name": "Spinata Grande",
+      "imagepath": "./assets/images/game-14.jpg"
+    },
+    {
+      "name": "Sucar Smash",
+      "imagepath": "./assets/images/game-15.jpg"
+    },
+    {
+      "name": "Smokin' Hot Gems",
+      "imagepath": "./assets/images/game-16.jpg"
+    },
+    {
+      "name": "Gonzo's Quest",
+      "imagepath": "./assets/images/game-17.jpg"
+    },
+    {
+      "name": "Hotline",
+      "imagepath": "./assets/images/game-18.jpg"
+    },
+    {
+      "name": "Fruit Spin",
+      "imagepath": "./assets/images/game-19.jpg"
+    },
+    {
+      "name": "Jumanji",
+      "imagepath": "./assets/images/game-20.jpg"
+    },
+    {
+      "name": "Fa-Fa Twins",
+      "imagepath": "./assets/images/game-21.jpg"
+    },
+    {
+      "name": "Spinata Grande",
+      "imagepath": "./assets/images/game-22.jpg"
+    }
+  ]
+}
+  
